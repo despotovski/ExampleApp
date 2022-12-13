@@ -7980,7 +7980,7 @@ var Show = function Show() {
       className: "container",
       children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("h1", {
         className: "page-header mt-xxl",
-        children: ["Product - ", product.name]
+        children: ["\u041F\u0440\u043E\u0434\u0443\u043A\u0442 - ", product.name]
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
         className: "form-container",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)(_utils__WEBPACK_IMPORTED_MODULE_3__.Link, {
@@ -8654,4 +8654,4 @@ validatorjs_dist_validator_min__WEBPACK_IMPORTED_MODULE_0___default().register('
 /***/ })
 
 }]);
-//# sourceMappingURL=resources_js_domain_Product_Show_js.js.map?id=2b5e124232d88308
+//# sourceMappingURL=resources_js_domain_Product_Show_js.js.map?id=d9a2165172f1354f

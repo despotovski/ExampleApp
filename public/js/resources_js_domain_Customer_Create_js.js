@@ -8062,7 +8062,7 @@ var Create = function Create() {
       className: "container",
       children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsx)("h1", {
         className: "page-header mt-xxl",
-        children: "Create customer"
+        children: "\u041A\u0440\u0435\u0438\u0440\u0430\u0458 \u043A\u0443\u043F\u0443\u0432\u0430\u0447"
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxs)("div", {
         className: "form-container",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxs)(_utils__WEBPACK_IMPORTED_MODULE_3__.Link, {
@@ -8735,4 +8735,4 @@ validatorjs_dist_validator_min__WEBPACK_IMPORTED_MODULE_0___default().register('
 /***/ })
 
 }]);
-//# sourceMappingURL=resources_js_domain_Customer_Create_js.js.map?id=a83ff576332dedca
+//# sourceMappingURL=resources_js_domain_Customer_Create_js.js.map?id=393be2044813d28c

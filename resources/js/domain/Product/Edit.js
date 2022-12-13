@@ -61,7 +61,7 @@ const Edit = () => {
     <LayoutAdmin>
 
       <div className='container'>
-        <h1 className='page-header mt-xxl'>Edit product - {product.name}</h1>
+        <h1 className='page-header mt-xxl'>Измени продукт - {product.name}</h1>
         <div className='form-container'>
 
           <Link href={links.product.index} className='btn-back'>

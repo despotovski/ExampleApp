@@ -46,7 +46,7 @@ const Show = () => {
     <LayoutAdmin>
 
       <div className='container'>
-        <h1 className='page-header mt-xxl'>Product - {product.name}</h1>
+        <h1 className='page-header mt-xxl'>Продукт - {product.name}</h1>
         <div className='form-container'>
 
           <Link href={links.product.index} className='btn-back'>

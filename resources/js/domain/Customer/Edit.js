@@ -139,7 +139,7 @@ const Edit = () => {
     <LayoutAdmin>
 
       <div className='container'>
-        <h1 className='page-header mt-xxl'>Customer - {customer.name}</h1>
+        <h1 className='page-header mt-xxl'>Измени купувач - {customer.name}</h1>
         <div className='form-container'>
 
           <Link href={links.customer.index} className='btn-back'>

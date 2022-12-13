@@ -59,7 +59,7 @@ const Create = () => {
     <LayoutAdmin>
 
       <div className='container'>
-        <h1 className='page-header mt-xxl'>Create product</h1>
+        <h1 className='page-header mt-xxl'>Креирај продукт</h1>
         <div className='form-container'>
 
           <Link href={links.product.index} className='btn-back'>

@@ -7992,7 +7992,7 @@ var Create = function Create() {
       className: "container",
       children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsx)("h1", {
         className: "page-header mt-xxl",
-        children: "Create product"
+        children: "\u041A\u0440\u0435\u0438\u0440\u0430\u0458 \u043F\u0440\u043E\u0434\u0443\u043A\u0442"
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxs)("div", {
         className: "form-container",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxs)(_utils__WEBPACK_IMPORTED_MODULE_3__.Link, {
@@ -8665,4 +8665,4 @@ validatorjs_dist_validator_min__WEBPACK_IMPORTED_MODULE_0___default().register('
 /***/ })
 
 }]);
-//# sourceMappingURL=resources_js_domain_Product_Create_js.js.map?id=2c76ae8685c61ea2
+//# sourceMappingURL=resources_js_domain_Product_Create_js.js.map?id=0db983729923b854

@@ -8037,7 +8037,7 @@ var Show = function Show() {
       className: "container",
       children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("h1", {
         className: "page-header mt-xxl",
-        children: ["Customer - ", customer.name]
+        children: ["\u041A\u0443\u043F\u0443\u0432\u0430\u0447 - ", customer.name]
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)("div", {
         className: "form-container",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_4__.jsxs)(_utils__WEBPACK_IMPORTED_MODULE_3__.Link, {
@@ -8711,4 +8711,4 @@ validatorjs_dist_validator_min__WEBPACK_IMPORTED_MODULE_0___default().register('
 /***/ })
 
 }]);
-//# sourceMappingURL=resources_js_domain_Customer_Show_js.js.map?id=341abd1e83003e8f
+//# sourceMappingURL=resources_js_domain_Customer_Show_js.js.map?id=e286ff7393697dc0

@@ -8072,7 +8072,7 @@ var Edit = function Edit() {
       className: "container",
       children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxs)("h1", {
         className: "page-header mt-xxl",
-        children: ["Customer - ", customer.name]
+        children: ["\u0418\u0437\u043C\u0435\u043D\u0438 \u043A\u0443\u043F\u0443\u0432\u0430\u0447 - ", customer.name]
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxs)("div", {
         className: "form-container",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxs)(_utils__WEBPACK_IMPORTED_MODULE_3__.Link, {
@@ -8745,4 +8745,4 @@ validatorjs_dist_validator_min__WEBPACK_IMPORTED_MODULE_0___default().register('
 /***/ })
 
 }]);
-//# sourceMappingURL=resources_js_domain_Customer_Edit_js.js.map?id=0641004ad885e314
+//# sourceMappingURL=resources_js_domain_Customer_Edit_js.js.map?id=19a18a99ab60fed1

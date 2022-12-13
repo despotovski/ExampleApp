@@ -7998,7 +7998,7 @@ var Edit = function Edit() {
       className: "container",
       children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxs)("h1", {
         className: "page-header mt-xxl",
-        children: ["Edit product - ", product.name]
+        children: ["\u0418\u0437\u043C\u0435\u043D\u0438 \u043F\u0440\u043E\u0434\u0443\u043A\u0442 - ", product.name]
       }), /*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxs)("div", {
         className: "form-container",
         children: [/*#__PURE__*/(0,react_jsx_runtime__WEBPACK_IMPORTED_MODULE_5__.jsxs)(_utils__WEBPACK_IMPORTED_MODULE_3__.Link, {
@@ -8671,4 +8671,4 @@ validatorjs_dist_validator_min__WEBPACK_IMPORTED_MODULE_0___default().register('
 /***/ })
 
 }]);
-//# sourceMappingURL=resources_js_domain_Product_Edit_js.js.map?id=08b45b674b9058de
+//# sourceMappingURL=resources_js_domain_Product_Edit_js.js.map?id=d641aa36ec396a04
