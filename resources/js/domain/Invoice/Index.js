@@ -118,9 +118,6 @@ const Index = () => {
                 <Link href={route(links.invoice.edit, { invoice: row.original.id })}>
                   <IconToolsEdit />
                 </Link>
-                {/*<button onClick={() => handleDeleteCustomer(row.original.id)}>*/}
-                {/*  <IconDelete />*/}
-                {/*</button>*/}
               </>
             </div>
           )

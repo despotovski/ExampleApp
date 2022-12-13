@@ -94,7 +94,7 @@
 
 <div class="head-title">
 
-    <h1 class="text-center m-0 p-0">Fakturi</h1>
+    <h1 class="text-center m-0 p-0">Faktura</h1>
 
 </div>
 
