@@ -174,8 +174,8 @@
                         <p>Vkupno za naplata</p>
                     </div>
                     <div class="total-right w-15 float-left text-bold" align="right">
-                        <p>${{ round(($invoice->total + $invoice->tax_percent) / $invoice->tax_percent) }}</p>
-                        <p>${{ round($invoice->total + (($invoice->total + $invoice->tax_percent) / $invoice->tax_percent))}}</p>
+                        <p>${{ round(($invoice->total + $invoice->tax_percent) * $invoice->tax_percent) / 100 }}</p>
+                        <p>${{round($invoice->product->price * $item->quantity) + round(($invoice->total + $invoice->tax_percent) * $invoice->tax_percent) / 100 }}</p>
 
                     </div>
                     <div style="clear: both;"></div>
